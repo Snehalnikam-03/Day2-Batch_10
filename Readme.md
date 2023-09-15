@@ -1,3 +1,3 @@
 Hi,
 I have started new batch in fynd
-And my batch no is 10
+And my batch number is 10
